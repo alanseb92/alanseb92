@@ -5,7 +5,7 @@ My experience ranges from data mining and analysis, creating interactive dashboa
 
 Data are only useful when they are articulated and put at the service of society, I mean, when they acquire informative value. 
 My job is to help you collect and organize data so it can then be analyzed to produce useful information for your business.
-- 📫 How to reach me  aalansebagarcia@gmail.com 
+- 📫 How to reach me  alansebagarcia@gmail.com 
 
 <!---
 alanseb92/alanseb92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
