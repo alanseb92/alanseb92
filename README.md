@@ -12,7 +12,7 @@ Data are only useful when they are articulated and put at the service of society
 My job is to help you collect and organize data so it can then be analyzed to produce useful information for your business. 
 
 🧠what I'm doing at this moment?
-I'm working as a Clinical Biochemist in a Sanatorium, learning with clinical cases and my patients 
+I'm working as a Clinical Biochemist in a Sanatorium, learning with clinical cases and my patients.
 In my free time, I spend it learning Big Data. 
 
 
