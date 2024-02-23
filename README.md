@@ -11,7 +11,7 @@ My experience ranges from data mining and analysis, creating interactive dashboa
 My job is to help you collect and organize data so it can then be analyzed to produce useful information for your business. 
 
 🧠what I'm doing at this moment?
-I'm working as a Clinical Biochemist in a Sanatorium, learning wwith clinical cases and my patients 
+I'm working as a Clinical Biochemist in a Sanatorium, learning with clinical cases and my patients 
 In my free time, I spend it learning Big Data. 
 
 
