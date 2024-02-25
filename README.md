@@ -13,13 +13,13 @@ My job is to help you collect and organize data so it can then be analyzed to pr
 
 🧠what I'm doing at this moment?
 I'm working as a Clinical Biochemist in a Sanatorium, learning with clinical cases and my patients.
-In my free time, I spend it learning Big Data. 
+In my free time, I spend it learning Software engineering tools. 
 
 
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [alansebagarcia@gmail.com](mailto:alansebagarcia@gmail.com)
-* 🧠  I'm learning Big Data
+* 🧠  I'm learning Big Data and Deep Learning techniques constantly
 * 🤝  I'm open to collaborate on Bioinformatics
 
 ### Skills
