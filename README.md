@@ -13,7 +13,7 @@ Data are only useful when they are articulated and put at the service of society
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [alansebagarcia@gmail.com](mailto:alansebagarcia@gmail.com)
 * 🧠  I'm learning Big Data & Deep Learning constantly
-* 🤝  I'm open to collaborating on Bioinformatics
+* 🤝  I'm open to collaborate on Bioinformatics
 
 ### Skills
 
