@@ -6,7 +6,6 @@ Biochemist | Data Scientist | ML/AI Developer | Data Engineer
 
 I'm a biochemist, passionate about the intersection of science, technology, and business. I have a strong background in genetics and molecular biochemistry, which I've complemented with experience in software development and the application of cutting-edge technologies. I got experience developing software deploying Machine Learning and Neural Networks workflows, Natural Language Processing, and Cloud Tools.
 
-Actually I spend my free time learning Big Data.
 
 My experience ranges from data mining and analysis, creating interactive dashboards and engaging data visualization. I collaborate closely with multidisciplinary teams to identify trends, patterns and opportunities for improvement, driving effective decision making. I'm always looking for new ways to optimize processes and maximize the value of data for my clients. 
 
