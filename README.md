@@ -1,7 +1,7 @@
 Alan Sebastián García
 =============================================================================================================================================
 
-Biochemist | Data Scientist | ML/AI Developer | Data Engineer
+Biochemist | Software Developer  
 -------------------------------------------------------------
 
 I'm a biochemist, passionate about the intersection of science, technology, and business. I have a strong background in genetics and molecular biochemistry, which I've complemented with experience in software development and the application of cutting-edge technologies. I got experience developing software deploying Machine Learning and Neural Networks workflows, Natural Language Processing, and Cloud Tools.
